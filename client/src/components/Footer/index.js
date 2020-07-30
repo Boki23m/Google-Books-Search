@@ -6,7 +6,7 @@ function Footer() {
     <footer>
       <hr />
       <div className="text-center copyright">
-          © 2019 Bojan Mitrovic
+          © 2020 Bojan Mitrovic
         </div>
     </footer>
   );
